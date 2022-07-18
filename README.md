@@ -1,7 +1,9 @@
 # 
 
-# vk-proxy [![Uptime](https://img.shields.io/uptimerobot/ratio/7/m780088591-4c8a704c43ffe8c145057754.svg)](https://xtrafrancyz.net/unblock-vk) [![Online](https://img.shields.io/badge/endpoint.svg?url=https://other.xtrafrancyz.net/vk-proxy-badge/onlineBadge)](https://xtrafrancyz.net/unblock-vk)
+# vk-proxy
 
+Это клонированный репозиторий. 
+Оригиналбный репо был архивирован.
 Прокси-сервер для API ВКонтакте, который можно использовать в Android и других приложениях.
 
 Главное преимущество **vk-proxy** перед VPN - это то, что не нужно постоянно запускать VPN, тратить на него батарею и смотреть рекламу перед подключением. С этим прокси вы просто пользуетесь приложением ВК точно так же, как и до блокировок. В отличии от прокси, встроенного в офф. приложение, это работает.
